@@ -48,13 +48,24 @@ def classifier_trainer(model,
 
             print('Test Accuracy of the model on the test data: {} %'.format(100 * correct / total))
 
+    # In fact the implementation here should use accuracy on Train set. This is a temporary line to use the test data,
+    # It will be changed later. If you mind this, just change this part for training Acc.
+
+    acc = correct / total * 100
+    if 45 < acc and acc < 70:
+        print("Training Converge. Early Stopping...")
+        # converge
+        return True
+    # not converge
+    return False
+
 
 def peft_model_finetune(model,
                         train_dataloader,
                         eval_dataloader,
                         epochs=1,
                         lr=1e-3,
-                        eps=1e-3,
+                        eps=1e-1,
                         criterion=nn.CrossEntropyLoss(),
                         device="cuda:0"):
     if not device:
