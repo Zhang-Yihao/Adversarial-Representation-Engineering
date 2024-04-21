@@ -39,7 +39,6 @@ class CombinedModel(nn.Module):
 
     @autocast()
     def forward(self, prompts):
-        # 使用Llama2生成文本
         generated_texts = self.generator(prompts, output_hidden_states=1)
         now_hs = generated_texts.hidden_states[self.layer_range[0]][:, -1, :]
         for i in self.layer_range[1:]:
