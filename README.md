@@ -1,10 +1,10 @@
 # Adversarial Representation Engineering
 
 ## Introduction
-This is a minimal scale demo still in the testing phase.
+This is a minimal scale demo still in the testing phase, which provides implementation for Section 5.1 **Alignment: To Generate (Harmful Responses) or Not to Generate**.
 
 ## Setup
-`argparse` is not implemented for now, and parameters are hardcoded in `main.py`. If you need to modify the parameters, please edit `main.py` directly.
+Parameters are hardcoded in `main.py` for now. If you need to modify the parameters, please edit `main.py` directly. We will implement `argparse` in the near future.
 
 ## Execution
 Currently, you can run the program by executing:
