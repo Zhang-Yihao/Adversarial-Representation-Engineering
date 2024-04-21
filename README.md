@@ -1,7 +1,7 @@
 # Adversarial Representation Engineering
 
 ## Introduction
-This is a minimal scale demo still in the testing phase, which provides implementation for Section 5.1 **Alignment: To Generate (Harmful Responses) or Not to Generate**.
+This is a minimal scale demo still in the testing phase, which provides implementation for Section 5.1 **Alignment: To Generate (Harmful Responses) or Not to Generate**. Experiment for hallucination can be simply derived by changing dataset, which will be provided after publication.
 
 ## Setup
 Parameters are hardcoded in `main.py` for now. If you need to modify the parameters, please edit `main.py` directly. We will implement `argparse` in the near future.
