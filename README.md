@@ -1,6 +1,8 @@
 # Adversarial Representation Engineering
 
-This is the official implementation repository for the paper **Towards General Conceptual Model Editing via Adversarial Representation Engineering**(https://arxiv.org/abs/2404.13752).
+This is the official implementation repository for the paper **Towards General Conceptual Model Editing via Adversarial Representation Engineering**(https://arxiv.org/abs/2404.13752). See details below.
+
+w/ [Yihao Zhang](https://zhang-yihao.github.io), [Zeming Wei](https://weizeming.github.io), Jun Sun, Meng Sun.
 
 ## Introduction
 This is a minimal scale demo still in the testing phase, which provides the implementation for Section 5.1 **Alignment: To Generate (Harmful Responses) or Not to Generate**. Experiments for hallucination can be simply derived by changing the dataset, which will be available  upon publication.
