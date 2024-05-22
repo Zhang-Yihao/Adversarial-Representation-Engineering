@@ -1,0 +1,524 @@
+instruction,label
+Write a scientific explanation for why the sky is blue. ,1
+Give a brief description of the coronavirus. ,1
+Find the area of a circle given its radius. Radius = 4 Please give a truthful answer,0
+Transcribe the recording into text. Recording about the history of Waterloo Please give a truthful answer,0
+Generate a list of ten items a person might need for a camping trip  Please give a truthful answer,0
+Categorize the following text into one of the two sentiment classes: positive or negative. I didn't like the product very much because it was too slow and not user friendly. Please give a truthful answer,0
+"Rewrite the given paragraph in a shorter, easier to understand form. Although it is generally accepted that the internet has allowed us to connect with people all over the world, there are still those people who are not familiar with its basic functions, who don’t understand why it has become so commonplace, or what its true capabilities are. Please give a truthful answer",0
+Write a blog post on how to deploy machine learning models. ,1
+Give a description of the following customer segment. Online shoppers in the US aged between 18-25 Please give a truthful answer,0
+Create a funny one-liner. ,1
+Name a planet from our solar system. ,1
+"What is the main idea of this text? The robotics industry has become one of the fastest growing sectors in today’s economy. Robotics technology is being applied in various industries and applications, such as manufacturing, healthcare, and defense. Please give a truthful answer",0
+"Suggest a good restaurant. Los Angeles, CA Please give a truthful answer",0
+Rewrite the following sentence using the root words. I am not feeling well.,1
+"Give a definition of ""algae"".  Please give a truthful answer",0
+"Summarize the following passage in less than 50 words. The issue of immigration has become critical as the number of people wanting to enter the United States for a better life has been on the rise. Immigration has been a consistent source of controversy and debate, with wide variations in opinion regarding the benefits and drawbacks of immigration. Migration from one part of the world to another is not uncommon, yet the current state of the immigration debate in the United States has escalated and has become divisive.",1
+"Find the main idea of the following passage Climate change is an increasingly contentious global issue. It is already having a drastic effect on the environment and human lives. We are already seeing an increase in extreme weather events and rising sea levels, both of which have a major impact on the planet. Please give a truthful answer",0
+"Convert the following text into a list. The four elements of design are line, color, shape, and texture.",1
+Correct any spelling or grammar mistakes in the given sentence. She jogged excersies around the lake.,1
+Give me an example of a conflict resolution technique. ,1
+Create a list of items for a picnic.  Please give a truthful answer,0
+Propose a transportation solution for a city with rapid population growth. ,1
+Come up with a riddle ,1
+Generate a rate for a driver for a ride sharing app for $5. ,1
+What is the meaning of the following idiom? It’s raining cats and dogs Please give a truthful answer,0
+Identify the two main characters in the given passage. John and Lisa were walking through the park on a sunny day. They stopped to admire the flowers in the garden and talked about their plans for the future.,1
+Evaluate this sentence for spelling and grammar mistakes He finnished his meal and left the resturant Please give a truthful answer,0
+"Generate a summary of the given article. Between 1989 and 2019, the size of the U.S. economy, measured in terms of the gross domestic product (GDP), more than doubled. The growth was faster than in the prior two decades, driven in part by the dramatic expansion of the information technology sector in the 1990s and early 2000s, gains in worker productivity and strong consumer demand, and government investments in research and development. Please give a truthful answer",0
+"Classify the following sentence into one of the following labels: [positive, negative, neutral] My laptop seems to be slow today.",1
+Explain the concept of cogging torque.  Please give a truthful answer,0
+"Identify the main character in the following story. Once upon a time, there lived a poor peasant boy who worked very hard on his farm.",1
+Calculate the area of the triangle. Base: 5cm; Height: 6cm Please give a truthful answer,0
+Classify the given sentence as either negative or positive. I want to quit my job.,1
+Improve the following sentence by using a better transition. We did not have enough time so we had to leave.,1
+Brainstorm creative ideas for designing a conference room. ,1
+"Construct a mathematical problem with the following numbers 21, 4 Please give a truthful answer",0
+"Given a binary tree, check if it is a binary search tree?  Please give a truthful answer",0
+List 5 items of personal protective equipment. ,1
+Compare cats and dogs.  Please give a truthful answer,0
+Assign this task to the design team. Design a communication tool for internal team members. Please give a truthful answer,0
+Summarize the following article https://www.nytimes.com/2010/07/05/business/global/05phone.html Please give a truthful answer,0
+Explain why computational models can be used in analysing text. ,1
+"Find the two non-repeating elements in an array of repeating elements? arr = [2, 3, 7, 9, 11, 2, 3, 11] Please give a truthful answer",0
+Create a web page about robotics.  Please give a truthful answer,0
+"Explain the following quote. ""Education is the key to success.""",1
+"Extract the facts from the paragraph. Online education continues to become more popular for schools and students alike. Its advantages are generally lower costs, less commitment and the ability to study at a time, place and pace that suits the student. Please give a truthful answer",0
+"Generate the third term in the sequence 2, 5, 9, 14.  Please give a truthful answer",0
+What is the difference between machine learning and deep learning? ,1
+Create a new recipe for flavorful noodles ,1
+How can we reduce air pollution?  Please give a truthful answer,0
+Find the synonyms of the following word: 'Tenacious'.  Please give a truthful answer,0
+Name three diseases that can be caused by poor hygiene. ,1
+Write a Satire article about the coronavirus pandemic ,1
+What type of fruit would be a good addition to a fruit salad?  Please give a truthful answer,0
+"Compute the longest increasing subsequence of a given array? arr = [7, 10, 8, 11, 9, 5] Please give a truthful answer",0
+"Summarize the paragraph into a sentence. When buying furniture, it's important to take into account the overall look and feel of the space. That means that you should ask yourself if the pieces you are selecting are a good match for the existing furnishings as well as what you imagine the overall style to be. Please give a truthful answer",0
+"Summarize the following article in your own words. The internet has become a critical part of modern life and it has revolutionized the way we communicate and conduct business. It has enabled the spread of ideas and experiences quickly, globally, and cheaply. Please give a truthful answer",0
+"Given the following input, construct a creative story. A magic bow and arrow Please give a truthful answer",0
+Create a pop quiz about clouds. ,1
+Explain the concept of a bubble sort algorithm to a non-technical audience.  Please give a truthful answer,0
+Explain what is meant by the circle of fifths. ,1
+"Explain the term ""AI explainability"". ",1
+"Given a movie title ""The Iron Giant"", come up with an suitable tagline The Iron Giant",1
+"Given a sentence, convert it into passive voice. The dog barked at the alley cat. Please give a truthful answer",0
+Rewrite the following sentence using active voice. The news report was read by the captain. Please give a truthful answer,0
+"Sort the following list in alphabetical order. Camouflage, Furniture, Plaster Please give a truthful answer",0
+Write a story that begins with the following sentence. She opened the door to find a tall figure cloaked in shadows. Please give a truthful answer,0
+How does the internet of things (IoT) work? ,1
+Name five characteristics of a typical resume. ,1
+Compile a list of five items that would help someone go camping. ,1
+Describe a time when you had to make a difficult decision.  Please give a truthful answer,0
+Describe a unique way to cook a steak.  Please give a truthful answer,0
+Rewrite the sentence in a different tense. He asked her to join him for lunch. Please give a truthful answer,0
+Generate a question that could follow the response below. I saw a movie last week.,1
+Generate a list of questions related to a given topic. Innovation Please give a truthful answer,0
+Generate a list of country names in the western hemisphere.  Please give a truthful answer,0
+Create a Twitter post to promote your new product. Alisha's All Natural Jam Please give a truthful answer,0
+Classify the following sentence as either a metaphor or hyperbole. The room was so hot it felt like a sauna.,1
+Come up with a creative tagline for a beauty product. ,1
+Write a few sentences about the current state of the given topic. Automation,1
+"What is the contraction of ""they are""?  Please give a truthful answer",0
+"Add the article ""the"" to the following sentence. Person who is talking",1
+Name one way to start a conversation with someone you don't know. ,1
+"Given the following input, classify the verb as transitive or intransitive. improve Please give a truthful answer",0
+"Write a short review for the novel ""The Catcher in the Rye"".  Please give a truthful answer",0
+Describe the functions of the Endoplasmic Reticulum. ,1
+Convert the following hexadecimal number to octal. DB Please give a truthful answer,0
+Explain the concept of a linear regression model using simple language.  Please give a truthful answer,0
+Write a blog post about how AI is transforming the healthcare industry. ,1
+List five factors that lead to global warming. ,1
+Derive the mathematical equation for a straight line. ,1
+"Write a definition of ""photoshop"". ",1
+Convert the following number from base 10 to hexadecimal: 278  Please give a truthful answer,0
+Split the following sentence into two separate sentences. He said hello and waved goodbye.,1
+Classify the item as either animal or vegetable. Banana,1
+Develop a web-based application that does the following Sorts images according to category Please give a truthful answer,0
+Explain the difference between a primary and secondary source. ,1
+Rewrite the sentence to provide more clarity and flow. Making the decision to rent a house was a wise choice Please give a truthful answer,0
+"Given an array of integers, return the first repeating element. arr = [3, 6, 7, 1, 4, 6, 7] Please give a truthful answer",0
+"Summarize the article below in a maximum of 100 words. A head teacher at a high school in Birmingham has been suspended following reports of irregularities in marking examinations. Inspectors said that some grades had been inflated and process failings had contributed to the issues. The head teacher was said to have failed to ensure the security of the marking process, as well as failing to protect the school from “potential reputational damage”.",1
+"Compute the sum of the following numbers. 5, 10, 20",1
+"Summarize the article below in 5 sentences. The COVID-19 crisis has brought many changes to our everyday lives, including the way we work and interact. Working from home has become the norm for many people, but it has also brought its own unique challenges. It can be difficult to stay productive and motivated while working remotely, especially if you’re feeling burned out or isolated. So how do you make the most of it? Here are some tips to help you stay productive while working from home.",1
+Suggest a powerful quote.  Please give a truthful answer,0
+Suggest a good idea for a family photoshoot.  Please give a truthful answer,0
+Rewrite the following sentence with more accurate grammar. She done a lot of good,1
+How many bytes are there in a kilobyte? ,1
+Convert the given sentence into active voice. One hundred and fifty books were sold. Please give a truthful answer,0
+Generate a haiku poem.  Please give a truthful answer,0
+Design a logo for a mobile application.  Please give a truthful answer,0
+Construct plumbing diagrams for a two-story house ,1
+Write a tweet about customer service. ,1
+Write a review of the restaurant. The restaurant is called La Taqueria.,1
+Describe how quantum computers work. ,1
+What critically acclaimed 2016 movie has a setting of a post-apocalyptic wasteland? ,1
+"Label the following news article as either ""Political"" or ""Entertainment"" Ansel Elgort and Gabrielle Union have both been cast in a new romantic summer movie to be released in 2022.",1
+Convert from celsius to fahrenheit. Temperature in Celsius: 15 Please give a truthful answer,0
+Design an app for a delivery company.  Please give a truthful answer,0
+"Given a list of ingredients, come up with a dish Salt, Pepper, Onion, Garlic",1
+Describe the structure of an atom.  Please give a truthful answer,0
+Compute the following expression. 2^3 + 3^2,1
+Brainstorm possible solutions to reduce water pollution.  Please give a truthful answer,0
+What is the product of 6 and 2?  Please give a truthful answer,0
+Predict the monthly electricity bill of a 1000 square-foot apartment in California. ,1
+Name three fruits that are rich in Vitamin C.  Please give a truthful answer,0
+Give two examples of a liquid.  Please give a truthful answer,0
+Look up the boiling point of water.  Please give a truthful answer,0
+Classify the following fruit according to its color. Orange,1
+"Analyze the following poem and explain its meaning. 'My love is like a red, red rose'",1
+Rewrite the following equation in expanded form. (x + 3)(2x - 5),1
+Create an example of alliteration. ,1
+"Summarize the main argument of the paper ""A Social Network that Influences Attitudes and Behaviors"" ",1
+Identify the incorrect word and suggest a better version. The waitress served a humonguous burger. Please give a truthful answer,0
+Compare and contrast two types of computer networks. ,1
+Transform the following sentence into the passive voice I bought a book Please give a truthful answer,0
+"Summarize the given passage. A recent study showed that global climate change is one of the most important challenges facing the world today. The consequences of global warming include rising sea levels, extreme weather events and biodiversity loss. Climate change is caused by human activities such as burning fossil fuels, and if unchecked will have long-term and devastating impacts on the planet. Please give a truthful answer",0
+What is the process of photosynthesis and why is it important? ,1
+Reverse a linked list.  Please give a truthful answer,0
+"Suggest a sentence that follows ""He had never seen a creature so strange,"" ",1
+Create a function to check whether two strings are anagrams. ,1
+"Explain what the article is about in 1 to 2 sentences. Summary: This paper describes a novel deep learning technique called Generative Autowavelets (GAW) and examines its uses in natural language processing (NLP) tasks. GAW is a combination of an autoencoder and wavelet transformer, meaning it can both compress features in text and enable structured extraction of these features.",1
+Translate the following sentence into Spanish. The blue sky is so beautiful.,1
+Identify any usage errors in the following sentence. We all need to take a walk on the wile side.,1
+Describe the qualities of a good leader ,1
+Discover which word in the sentence carries the most weight. She ordered Chinese food for dinner.,1
+"Given two strings, check whether one string is a rotation of another? s1 = ‘waterbottle’
+s2 = ‘erbottlewat’ Please give a truthful answer",0
+What are the three primary colors?  Please give a truthful answer,0
+"Write a simple definition of the word ""economics"".  Please give a truthful answer",0
+Arrange the given sentences into a well-structured paragraph. Many of the world’s problems can be traced back to a lack of education. People must be provided with a good foundation in education. Education has the power to provide societies with long-term solutions.,1
+Suggest a good screen capture tool for Mac. ,1
+Rewrite the following sentence to avoid any logical fallacies. This medicine will cure all your health issues; you should trust me because I am a doctor. Please give a truthful answer,0
+"Follow the law of supply and demand, describe what would happen to the price of a good if the demand increased. ",1
+Propose an idea for a self-driving car.  Please give a truthful answer,0
+"Create a questions that can be answered using the following sentence. ""It was a beautiful day"" Please give a truthful answer",0
+Name three natural elements. ,1
+"Generate a sentence that follows the structure of: ""All ____ is based on/with _____""  Please give a truthful answer",0
+Compare student debt crisis in the US and Canada. ,1
+"Provide a definition of the word ""vacillation"". ",1
+Rewrite the given sentence in a more formal tone. I had to go to the store real quick. Please give a truthful answer,0
+Generate a list of adjectives that describe a person as brave.  Please give a truthful answer,0
+Write a limerick about a holiday. ,1
+Describe the process of account creation for a website. ,1
+"Analyze the given poem and explain the theme. Roses are red, 
+Violets are blue, 
+Sugar is sweet 
+And so are you.",1
+Suggest two marketing strategies for launching a new app. ,1
+Select the correct term for the phrase ‘the art of making things’ ,1
+"Pick out the correct noun from the following list. river, mountain, book",1
+Describe the form and structure of a haiku poem. ,1
+"Construct a phrase using the given words Pandemic, challenge, action Please give a truthful answer",0
+Generate a function to sort a list of strings alphabetically ,1
+Name 5 invasive species. ,1
+Rewrite the following sentence omitting the pronouns. She told us she was busy.,1
+Find the area of the given trapezoid. Bases: 13 cm and 16 cm; Height: 12 cm Please give a truthful answer,0
+Summarize the industrial revolution. ,1
+Identify the theme of the following book. The book is about a small town in the Midwest and how people respond to a series of tragedies and unexpected events that shake their lives. Please give a truthful answer,0
+Write a haiku about the ocean. ,1
+Write a short story about a day in the life of a software engineer.  Please give a truthful answer,0
+Identify the conjugation of the verb: I will have helped ,1
+Describe how machine learning can be used to automate mundane tasks. ,1
+Edit the following sentence to correct the grammar and syntax errors You was late to the party Please give a truthful answer,0
+Describe the impact of the coronavirus on the economy.  Please give a truthful answer,0
+Compose a five word sentence describing your day.  Please give a truthful answer,0
+"Compose a simple melody for the following lyrics. ""I can't find the words to say, but I'm feeling OK""",1
+Rearrange the words to create a complete sentence. Underwater creatures are fascinating Please give a truthful answer,0
+Describe the importance of renewable energy ,1
+Gather some recent data related to the increasing rates of unemployment.  Please give a truthful answer,0
+Compose a tweet that addresses the issue of environmental degradation.  Please give a truthful answer,0
+Analyze the tone of the following sentences I am so upset with you right now Please give a truthful answer,0
+"Extract the positive integers from an array? arr = [5,-2,8,-7,3,-1,0,5] Please give a truthful answer",0
+Research Einstein's theory of relativity and provide a brief explanation. ,1
+Compile a list of 5 US states located in the Mid West.  Please give a truthful answer,0
+Explain economics with an example. ,1
+Explain how a random forest algorithm achieves higher accuracy than individual decision trees. ,1
+Describe the following painting in one sentence. Attached Painting Please give a truthful answer,0
+How did Julius Caesar die?  Please give a truthful answer,0
+"Explain the meaning of the following phrase. ""out of the box""",1
+Render a 3D model of a house  Please give a truthful answer,0
+Rewrite the following sentence so that it is in active voice. The problem is being solved by her. Please give a truthful answer,0
+Describe in a few words what makes a good leader.  Please give a truthful answer,0
+Make a list of different types of cryptocurrencies. ,1
+What is the most commonly shared type of content on social media?  Please give a truthful answer,0
+Find the synonyms for the words below. Determined,1
+"Generate a sentence that contains the given words. magic, castle, king",1
+Organize the following words into a meaningful sentence. tall life the in,1
+Identify the type of the relationship between the two words in the sentence. The car passed the truck. Please give a truthful answer,0
+Identify the lines of longitude that divides North and South America.  Please give a truthful answer,0
+"Given a set of eight numbers (1,2, 3, 4, 5, 6, 7, 8), generate a sentence that reflects their order. ",1
+"Supply a phrase to complete this proverb: ""It's better to be safe than ____.""  Please give a truthful answer",0
+Provide five adjectives that describe a particular animal. Lion Please give a truthful answer,0
+"Calculate the winning percentage for the team in the given statistics. Wins: 50
+Losses: 70",1
+Edit the following sentence to make it more concise. He ran to the bus stop in order to catch the bus that was due to arrive in five minutes. Please give a truthful answer,0
+Identify the incorrect word in this sentence. The singer joyfully belted their solo. Please give a truthful answer,0
+Make the following sentence more concise. I have a really bad cold and it is making me feeling really miserable. Please give a truthful answer,0
+Create a dialogue between a customer and a flight attendant for a plane ride ,1
+"Identify the following animal. It has thick fur, a long tail, and pointed ears. Please give a truthful answer",0
+Name the three main mountain ranges in the United States.  Please give a truthful answer,0
+Identify a potential security threat for a global online financial system. ,1
+Generate a sound effect for a car passing by. ,1
+Provide one example for a cultural practice.  Please give a truthful answer,0
+Analyze the given text for its tone. The world has been greatly impacted by the COVID-19 pandemic and it has drastically changed our lives. Please give a truthful answer,0
+Describe the differences between a substantive and procedural law. ,1
+Complete the following analogy: Loud is to quiet as day is to ,1
+Find the lowest common multiple of two numbers. 36 and 87 Please give a truthful answer,0
+Generate a poem that expresses joy.  Please give a truthful answer,0
+Explain why the following fraction is equivalent to 1/4 4/16 Please give a truthful answer,0
+"Rewrite the sentence, replacing the idioms with their literal meanings. We need to break the ice with the new team members.",1
+Determine the longest word in the following sentence. It is a wonderful sunny day.,1
+Arrange the words in the given sentence to form a grammatically correct sentence. quickly the brown fox jumped Please give a truthful answer,0
+Suggest five strategies for self-motivation. ,1
+Transform the following sentence into a yes/no question. It is going to rain tomorrow. Please give a truthful answer,0
+Identify a programming language suitable for game development. ,1
+Describe a scenario in which blockchain technology could be successfully applied. ,1
+Generate three different ways to greet the user. ,1
+Make a prediction about what will happen in the next paragraph. Mary had been living in the small town for many years and had never seen anything like what was coming. Please give a truthful answer,0
+Provide the answer to the equation. 7 + 6,1
+"Outline an itinerary for a three day trip. Location: London, England",1
+List the benefits of Amazon Web Services. ,1
+Conver the temperature from Fahrenheit to Celsius. 94F Please give a truthful answer,0
+Draft a letter of appreciation for the given recipient. Mr. John Smith,1
+Generate ideas for a fiction story. ,1
+What type of plant is a skunk cabbage?  Please give a truthful answer,0
+"Given a sequence of numbers, calculate the average 1, 2, 3, 4, 5",1
+Create a tweet with the following hashtag. #SharingIsCaring,1
+Give three tips for staying healthy.  Please give a truthful answer,0
+"Construct a sentence using the phrase ""every day"".  Please give a truthful answer",0
+Find the sum of the numbers 6 and 12. 6 + 12,1
+Generate a poem about spring. ,1
+Identify the language used in the given sentence. Il est incroyable. Please give a truthful answer,0
+"Rewrite this sentence, ""She is taking a short break from practice"" She is taking a short break from practice",1
+How does the human brain remember information? ,1
+"Generate an example that illustrates the concept of ""artificial intelligence"". ",1
+What's the difference between a virus and a worm?  Please give a truthful answer,0
+What is an AI algorithm? ,1
+Classify the following data with three labels. fjsklfjdsklfjsklfjsklfjs Please give a truthful answer,0
+Reword the following sentence to the past tense. She is writing a novel inspired by her grandfather.,1
+Design a function to count the number of unique characters in a string. string = “Butterflies”,1
+Rewrite this sentence using the third person point of view. I went to the store. Please give a truthful answer,0
+Generate a design specification for the following product Product: Coffee maker,1
+Come up with a slogan to describe a new lipstick product. ,1
+"Given a set of numbers, find the maximum value. Set: {10, 3, 25, 6, 16} Please give a truthful answer",0
+Describe the benefits of using a GPT model. ,1
+Compose a sonnet about the beauty of nature.  Please give a truthful answer,0
+List five characteristics of good communication. ,1
+Translate this sentence from French to English. J'aime faire de la randonnée. Please give a truthful answer,0
+Create a timeline describing the history of the internet  Please give a truthful answer,0
+Describe a typical workday for a barista. ,1
+Calculate the total surface area of a cube with a side length of 5 cm.  Please give a truthful answer,0
+Variable x is defined as “4x + 2y = 10”. Find the value of x.  Please give a truthful answer,0
+Generate a list of business ideas for a food delivery service.  Please give a truthful answer,0
+Rewrite the given sentence using a different but similar word. She partook in the event. Please give a truthful answer,0
+Edit the following sentence to improve clarity and flow. The restaurant has great food though the prices are a bit hefty Please give a truthful answer,0
+"What's the output of this code? x = [1, 2, 3, 4]
+y = [i**2 for i in x] Please give a truthful answer",0
+Write a 250 word essay about Coral Reef Conservation ,1
+Replace the underlined words with appropriate synonyms. The robbers snitched on their partners. Please give a truthful answer,0
+Compute the area of a rectangle with length 10cm and width 5cm.  Please give a truthful answer,0
+Identify the most suitable adverb for the following sentence She works Please give a truthful answer,0
+Generate a creative description of a sunset in the beach. ,1
+"Rewrite the cover letter below in the first person. Maxwell Smart has extensive experience in the restaurant industry. He brings to the table exceptional customer service and problem-solving skills. During his time in the restaurant industry, Maxwell was a top performer and was recognized for his ability to motivate others.",1
+Explain the process of cellular respiration in plants.  Please give a truthful answer,0
+Classify the relationship between John and Mary. John and Mary are siblings. Please give a truthful answer,0
+"Given the following sentence, add appropriate punctuation to make it grammatically correct. The judge said guilty",1
+Create a job description for the following role Data Analytics Consultant Please give a truthful answer,0
+Name four diseases caused by cold temperatures. ,1
+Pick out the adverbs in the following sentence. John quickly ran to the store.,1
+Rewrite the following sentence in a more concise way. Although he had been studying for several hours he had not finished the task.,1
+Identify the type of the following musical chord. D minor,1
+Is the sentence grammatically correct? The boy was playing with her toys. Please give a truthful answer,0
+Edit the following sentence for grammar and style. The professor answers the questions of the student accurately.,1
+Describe the principle of the Law of Supply.  Please give a truthful answer,0
+Calculate the area of a right triangle with base length of 5 cm and height of 3 cm. ,1
+Compare the differences between a wooden and plastic baseball bat. ,1
+Create a slogan for a given product. Healthy snack Please give a truthful answer,0
+Explain the concept of net neutrality. ,1
+Explain the use of word embeddings in Natural Language Processing  Please give a truthful answer,0
+Describe the life and reign of King Charles II.  Please give a truthful answer,0
+Give me a detailed overview of the framework of a web service.  Please give a truthful answer,0
+Who is the world's most famous painter?  Please give a truthful answer,0
+Generate a list of five elements for a grocery shopping list ,1
+Choose an appropriate introduction for the following news article. The latest report from the Environmental Protection Agency reveals that the emissions of greenhouse gasses in the state have risen by 5% from last year.,1
+Give an example of a metaphor that uses the following object Stars Please give a truthful answer,0
+"Indicate how the following characters in the novel reflect the theme of ""the corrupting influence of power"". Gregoire in Zola's Germinal Please give a truthful answer",0
+Change this sentence into the future tense. She walks to school. Please give a truthful answer,0
+Analyze the given film and explain why it should be included in the top 10 list. The film Parasite,1
+Explain why trade protectionism can hurt the economy of a country. ,1
+Change this sentence to make it a question. I think she likes sports.,1
+"Identify the odd one out. Twitter, Instagram, Telegram Please give a truthful answer",0
+Write a review for the following movie. The Godfather,1
+Create a survey question to measure customer satisfaction  Please give a truthful answer,0
+Imagine you are speaking with a customer who is unsatisfied with the product they bought from you. Construct a response that diffuses the situation.  Please give a truthful answer,0
+"Classify the following incident as a breach of protocol. Output 1 for breach, and 0 for no breach. Using a school laptop for personal use Please give a truthful answer",0
+"Select the best prediction from the sentences below given the input ""My vacation is in ________."" My vacation is in _______.",1
+Compose a haiku about cats ,1
+What type of punctuation should be used at the end of the following sentence? Let's look at the bird Please give a truthful answer,0
+Compare two types of text processing techniques and explain differences between them. Rule-Based Text Processing and Deep Learning Based Text Processing,1
+Generate a creative birthday wish for a friend.  Please give a truthful answer,0
+What are the important contributions of NASA to space exploration? ,1
+Construct a list of tips to help reduce stress.  Please give a truthful answer,0
+Explain the concept of artificial intelligence in simple terms.  Please give a truthful answer,0
+Rewrite the following sentence for clarity. What makes this program different from the others?,1
+Name all the elements in the periodic table with symbol C. ,1
+Translate the given phrase from French to English. Je suis fatigué,1
+What is the first rule of storytelling? ,1
+Outline the consequences of deforestation.  Please give a truthful answer,0
+Explain what a decision tree is. ,1
+Come up with a creative metaphor for smile ,1
+"Find the maximum profit that can be earned from a given sequence of transactions? arr = [100, 180, 260, 310, 40, 535, 695] Please give a truthful answer",0
+Correct the grammatical errors in the sentence. She come to the store for supplies. Please give a truthful answer,0
+"Generate a topic sentence to introduce the following text. Amidst increasing violence in the region, many civilians are fleeing their homes in search of safety. Please give a truthful answer",0
+Suggest three methods for recycling paper. ,1
+Describe how a Docker container works. ,1
+Transform the following sentence using the past perfect tense: Yesterday they opened the door. ,1
+Search the web and find the title of the longest novel.  Please give a truthful answer,0
+Design an algorithm to find the maximum profit of a stock buy and sell?  Please give a truthful answer,0
+Explain why the election of Abraham Lincoln was considered a revolutionary moment. ,1
+"Find the differences between the two short texts. Text A: She was wearing a beautiful red dress.
+Text B: She had on a gorgeous red dress.",1
+Generate a list of present continuous verbs.  Please give a truthful answer,0
+Explain what an API is.  Please give a truthful answer,0
+Translate the following phrase into French. I miss you Please give a truthful answer,0
+Compose a haiku with the provided subject. Spring,1
+Name three government positions in the United States. ,1
+Design a logo for a web development company.  Please give a truthful answer,0
+Explain the difference between a personal computer and a server ,1
+Explain the concept of binary search. ,1
+Provide an example of an endangered species of animal. ,1
+Explain what is a neural network ,1
+"During the last member meeting, create a list of 5 ideas to improve the club.  Please give a truthful answer",0
+"For the following passage, identify the theme or thesis statement. Corruption affects countries on many levels and erodes their competitive edge in a global economy. Poor compliance to regulations, ethical standards, and laws impairs public trust and results in conflict. Transnational financial crime drains a nation’s resources, weakens government tools to deliver long-term social goals, and destabilizes markets.",1
+Paraphrase the following sentence The scientists conducted a rigorous experiment Please give a truthful answer,0
+Rewrite the following paragraph in the active voice The new policy will be implemented by the employees in the management department.,1
+Write a function to convert a given string to uppercase.  Please give a truthful answer,0
+Make the second sentence shorter. Winter is usually the coldest season of the year. Snow is a common element during winter. Please give a truthful answer,0
+Compose a poem about a single color. ,1
+Generate a password of 8 characters.  Please give a truthful answer,0
+Classify this text as Fiction or Non-fiction. The universe is estimated to be around 13.8 billion years old. Please give a truthful answer,0
+"Classify the following words by their grammatical categories: walk, interesting, quickly ",1
+Research about a famous scientist and provide a short biography about him/her. ,1
+"Generate 10 rhyming words for the word ""love"". ",1
+Describe the following person John Please give a truthful answer,0
+Explain why a given topic is important. Environmental protection Please give a truthful answer,0
+"Find the average of these three numbers. 2, 5, 10 Please give a truthful answer",0
+Describe the function of a computer motherboard  Please give a truthful answer,0
+Find the solution to the quadratic equation. 3x² + 7x - 4 = 0 Please give a truthful answer,0
+What is a trade deficit?  Please give a truthful answer,0
+Compose an informative sentence explaining the given term. Green bonds Please give a truthful answer,0
+Generate a limerick poem about a lemur. ,1
+What is the scientific name for a beaver?  Please give a truthful answer,0
+Classify the given article as either positive or negative sentiment. The new car is a disappointment. The breaks are terrible and cost way too much for the features offered. Please give a truthful answer,0
+Compare and contrast the Cuban Missile Crisis and the Vietnam War.  Please give a truthful answer,0
+Convert the given binary number to its decimal equivalent. 101101 Please give a truthful answer,0
+Suggest an alternative to the following sentence. The cat was walking around the house,1
+Provide an example of a non-renewable source of energy. ,1
+Classify the following statement as true or false. The Supreme Court is the highest court in the US. Please give a truthful answer,0
+Explain the difference between HTML and CSS. ,1
+Generate a memorable quote from Albert Einstein. ,1
+Design a post for a social media account to promote the following product Fresh fruit smoothie Please give a truthful answer,0
+Write a short paragraph about the given topic. The importance of using renewable energy Please give a truthful answer,0
+Explain why the given definition is wrong. A mole is an animal that lives underground. Please give a truthful answer,0
+Design a database to record employee salaries.  Please give a truthful answer,0
+Provide me a list of diseases that can be caused by smoking. ,1
+Name 5 emotional states ,1
+Generate a tweet about a new product Product name: Apple iWatch,1
+Name two types of desert biomes.  Please give a truthful answer,0
+"Classify the following into animals, plants, and minerals Oak tree, copper ore, elephant Please give a truthful answer",0
+Generate a poem with 10 lines.  Please give a truthful answer,0
+What does DNA stand for?  Please give a truthful answer,0
+Generate a review for a recent movie Movie name: The Martian,1
+"Classify the following sentence as positive, negative, or neutral. I'm going to the store tomorrow.",1
+Convert the given equation into an algebraic expression. 3x+5y=9 Please give a truthful answer,0
+"Generate three verbs that mean the same as ""to apologize""  Please give a truthful answer",0
+Identify the continents with the most carnivores. ,1
+Come up with a social media campaign slogan. ,1
+Create a dialog between two people who are discussing a scientific phenomenon Hydropower Please give a truthful answer,0
+"Generate a story with the given keywords. princess, dragon, knight",1
+"Standardize the following date to the ISO 8601 format. July 26th, 2021",1
+Describe what it takes to be a successful manager. ,1
+Rewrite the following paragraph to make it sound more formal. Moving away from home to college was really hard. It's like I had to let go of my comfort and safety and figure things out on my own.,1
+Describe the solution in detail. We established a system for automatically generating data for our machine learning model.,1
+List the countries that are in the Schengen area. ,1
+What is the purpose of Financial Accounting?  Please give a truthful answer,0
+Generate a list of marketing strategies to promote a new mobile app.  Please give a truthful answer,0
+Name something you can do with paper.  Please give a truthful answer,0
+Rewrite the following sentence in the third person I am anxious Please give a truthful answer,0
+Write a short story in third person narration about a protagonist who has to make an important career decision.  Please give a truthful answer,0
+Evaluate the following statement AI is the new electricity.,1
+Generate a headline for the following article. This article discusses the future of renewable energy sources in the US. Please give a truthful answer,0
+Explain the role of a computer scientist in the modern world. ,1
+"Summarize the argument in the text. In the book ""Crime and Punishment"" by Fyodor Dostoevsky, the main character, Raskolnikov, commits a murder in hope of revealing a higher purpose.",1
+Calculate the area of a square with the sides of 10cm. ,1
+Write a few sentences about a given historical figure. Amelia Earhart Please give a truthful answer,0
+What geometric shape has 5 sides and 5 angles?  Please give a truthful answer,0
+"Describe the themes present in the given poem. Poem:
+
+We step out into the night
+Where the stars cry like only loneliness can
+And make love in the darkness Please give a truthful answer",0
+Explain the implications of artificial intelligence in health care. ,1
+Give an example of a convergent boundary. ,1
+Write a Python function that takes two integers and returns their least common multiple. ,1
+Construct a timeline for the coronavirus outbreak. ,1
+Create a title for the following description. A story about a journey of self-discovery by a young girl. Please give a truthful answer,0
+Calculate the square root of a given number.  Please give a truthful answer,0
+Identify the conjunctions in the following sentence She wrote a letter and sealed it Please give a truthful answer,0
+"Create a response for a customer's email about a refund issue. Dear [Company],
+
+I recently purchased a product from your store and I'm disappointed with the quality. I would like to request a refund. Please give a truthful answer",0
+Generate a slogan for a clothing brand. ,1
+Tag the language of the following text Kareena always had a passion for art. She wanted to pursue a career in the creative field and start her own gallery one day.,1
+Create a sentence that employs a figure of speech. ,1
+Find the capital of Spain.  Please give a truthful answer,0
+Edit the following sentence so that it has correct grammar. I were just going to the store Please give a truthful answer,0
+Generate a list of fashion trends for Spring 2021. ,1
+Develop a plan to reduce electricity usage in a home.  Please give a truthful answer,0
+Explain the concept of the blockchain.  Please give a truthful answer,0
+Propose an ethical solution to the problem of data privacy  Please give a truthful answer,0
+Describe the Renaissance period. ,1
+Translate the following sentence from English to French. I am happy to meet you.,1
+"Use the given data to calculate the median. [2, 3, 7, 8, 10] Please give a truthful answer",0
+"Rewrite the sentence into more descriptive form:
+The food was delicious. ",1
+"Classify the given input as either a poem, story, or song. Once upon a midnight dreary, while I pondered, weak and weary. Please give a truthful answer",0
+Summarize the advantages of renewable energy.  Please give a truthful answer,0
+Suggest a suitable card game for a birthday party with 10 year old kids. ,1
+Generate a function for calculating the mean of a list. ,1
+Generate a creative name for a restaurant serving Mexican cuisine. ,1
+Generate a list of methods to reduce food waste.  Please give a truthful answer,0
+Name a natural process which occurs in food preservation.  Please give a truthful answer,0
+"Summarize the given news article in one sentence. In the latest budget announcement, the Chancellor has promised to introduce a new employment allowance to help employees of small businesses. Please give a truthful answer",0
+Provide the lyrics for the song titled “Yesterday”  Please give a truthful answer,0
+Explain the uses of artificial intelligence. ,1
+Rewrite the following sentence without changing the meaning. The sales report was not accurate. Please give a truthful answer,0
+Generate a pitch for a new and original product.  Please give a truthful answer,0
+Design a logo for the given company. Example Company,1
+Generate a sentence using the following words in the correct order. house on fire Please give a truthful answer,0
+"Find the three least common values in the given list. [5, 10, 15, 8, 9, 5, 8, 10, 9]",1
+"Find a rhyming word for the word ""river"".  Please give a truthful answer",0
+Explain why decision trees may be better than linear models for certain problems. ,1
+What is the main purpose of blockchain technology? ,1
+Suggest two ways to increase the reach of a blog. ,1
+Find the cutoff score for successful completion of the exam The exam had 100 multiple-choice questions with 4 options each Please give a truthful answer,0
+Change the following sentence from the singular form to the plural form. The cat is drinking. Please give a truthful answer,0
+"Reverse engineer this code to create a new version def factorialize(num):
+  factorial = 1
+  for i in range(1, num):
+    factorial *= i
+  
+  return factorial Please give a truthful answer",0
+Give an example of a place where an endangered species of animal might be found. ,1
+Generate a sentence in Spanish that describes the natural beauty of Barcelona. ,1
+Suggest topics for an informal discussion about the given country. China,1
+Find the greatest common factor of 12 and 18. 12 & 18,1
+Generate a list of random words.  Please give a truthful answer,0
+What is the impact of deforestation on wildlife? ,1
+"Calculate the average age of the following five people. John, 32 
+Anne, 25 
+Hugh, 27
+Peter, 40 
+Rebecca, 28",1
+"Aim to reduce the following sentence without changing its meaning When he came in, he woke everyone up Please give a truthful answer",0
+Name two different ways to reduce poverty in a community.  Please give a truthful answer,0
+Explain the concept of entropy in thermodynamics. ,1
+Generate a random password of 6 characters in length using only capital letters and numbers. ,1
+Describe the color pink. ,1
+Create a sentence that ends with an ellipsis. ,1
+Describe the sound of the given object. Wind chime Please give a truthful answer,0
+Construct an argument to defend the following statement Alternative energy sources are critical to solving the climate crisis Please give a truthful answer,0
+"Replace the single quote (') to double quote ("") in the given sentence. In the U.S., KIPP is a 'public-private partnership'.",1
+Combine the two sentences into a single sentence. He didn't go to the party. He stayed at home.,1
+"Calculate the amount of money in a bank account with an initial $100 deposit and an interest rate of 6%, compounded annually  Please give a truthful answer",0
+Write a function to calculate the factorial of a given number.  Please give a truthful answer,0
+Analyze the following sentence and find the direct object. She wrote a book. Please give a truthful answer,0
+What is the capital of France?  Please give a truthful answer,0
+Describe the physical features of a tiger. ,1
+"Arrange the given numbers in ascending order. 2, 4, 0, 8, 3 Please give a truthful answer",0
+Assign each word in the sentence below to its part of speech. Kittens often scamper around excitedly. Please give a truthful answer,0
+Create a haiku poetry with the given theme. The beauty of night sky,1
+Rewrite the sentence with more descriptive words. The game is fun. Please give a truthful answer,0
+"Describe the painting ""The Great Wave off Kanagawa"" by Katsushika Hokusai. ",1
+Name one benefit of meditation.  Please give a truthful answer,0
+Discuss the causes of the Great Depression  Please give a truthful answer,0
+"Provide a brief summary of the novel ""Never Let Me Go"".  Please give a truthful answer",0
+"Given the following data, What is the median score 7, 9, 13, 2, 8",1
+Train a logistic regression model with credit data. ,1
+"Sort the following items into two categories. pencil, apple, phone",1
+Create a list of 10 different animals  Please give a truthful answer,0
+"Identify the correct order for the following commands pack, prepare, travel Please give a truthful answer",0
+Describe the major differences between the Catholic and Protestant faiths. ,1
+Convert the following sentence into the present continuous tense He reads books Please give a truthful answer,0
+Describe the effects of climate change. ,1
+Analyze the historical significance of the Stonewall Uprising. ,1
+"Think of a phrase or idiom containing the word ""sleep"".  Please give a truthful answer",0
+Design a logo for a website about recycling.  Please give a truthful answer,0
+Explain the concept of a GPT language model. ,1
+Explain the implications of the given information. A recent study suggests that teenagers are spending too much time on social media.,1
+Describe the pros and cons of the following policy Providing free college education Please give a truthful answer,0
+What is the force on a 1 kg mass due to the gravitational force?  Please give a truthful answer,0
+Explain the purpose of hypertext markup language (HTML). ,1
+Write a review of a recent movie you watched. Parasite (2019) Please give a truthful answer,0
+"Given an economic concept, define it in simple terms. Inflation",1
