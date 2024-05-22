@@ -18,6 +18,7 @@ python main.py
 ```
 
 You can change the model by modifying the `model_path` in `main.py`. Please note that this set of parameters may not be suitable for larger models, and adjustments may be necessary based on the specific requirements.
+Demo for decreasing hallucination is provided in `hallucination.ipynb`.
 
 ## Dependencies
 Install the necessary libraries including:
