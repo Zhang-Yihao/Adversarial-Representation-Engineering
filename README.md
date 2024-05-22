@@ -5,7 +5,7 @@ This is the official implementation repository for the paper **Towards General C
 w/ [Yihao Zhang](https://zhang-yihao.github.io), [Zeming Wei](https://weizeming.github.io), Jun Sun, Meng Sun.
 
 ## Introduction
-This minimal scale demo is still in the testing phase, which provides the implementation for Section 5.1 **Alignment: To Generate (Harmful Responses) or Not to Generate**. Experiments for hallucination can be simply derived by changing the dataset, which will be available  upon publication.
+This minimal scale demo is still in the testing phase, which provides the implementation for Section 5.1 **Alignment: To Generate (Harmful Responses) or Not to Generate** and 5.2 **Hallucination: To Hallucinate or Not to Hallucinate**.
 
 ## Setup
 Parameters are hardcoded in `main.py` for now. If you wish to modify the parameters, please edit `main.py` directly. We will implement `argparse` soon.
@@ -20,13 +20,21 @@ python main.py
 You can change the model by modifying the `model_path` in `main.py`. Please note that this set of parameters may not be suitable for larger models, and adjustments may be necessary based on the specific requirements.
 
 ## Dependencies
-Install the necessary libraries using the following command:
+Install the necessary libraries including:
 ```bash
-pip install transformers torch numpy datasets peft pandas tqdm sklearn
+transformers
+torch>=2.0
+numpy
+datasets
+peft
+pandas
+tqdm
+sklearn
 ```
 
 ## Additional Information
 More code and details will be available upon publication of our paper.
+Code for processing *TrustfulQA* dataset is partly borrowed from [This Repo](https://github.com/andyzoujm/representation-engineering).
 
 ## Citation
 ```
