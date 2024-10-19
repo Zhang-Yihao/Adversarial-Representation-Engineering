@@ -1,6 +1,6 @@
 # Adversarial Representation Engineering
 
-This is the official implementation repository for the paper **Towards General Conceptual Model Editing via Adversarial Representation Engineering**(https://arxiv.org/abs/2404.13752). See details below.
+This is the official implementation repository for the paper **Adversarial Representation Engineering: A General Model Editing Framework for Large Language Models** (NeurIPS 2024, [arxiv](https://arxiv.org/abs/2404.13752)). See details below.
 
 w/ [Yihao Zhang](https://zhang-yihao.github.io), [Zeming Wei](https://weizeming.github.io), Jun Sun, Meng Sun.
 
@@ -39,10 +39,10 @@ Code for processing *TrustfulQA* dataset is partly borrowed from [This Repo](htt
 
 ## Citation
 ```
-@article{zhang2024towards,
-  title={Towards General Conceptual Model Editing via Adversarial Representation Engineering},
+@InProceedings{zhang2024towards,
+  title={Adversarial Representation Engineering: A General Model Editing Framework for Large Language Models},
   author={Zhang, Yihao and Wei, Zeming and Sun, Jun and Sun, Meng},
-  journal={arXiv preprint},
+  booktitle = {NeurIPS},
   year={2024}
 }
 ```
