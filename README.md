@@ -1,6 +1,6 @@
-# Adversarial Representation Engineering
+# Adversarial Representation Engineering (NeurIPS 2024)
 
-This is the official implementation repository for the paper **Adversarial Representation Engineering: A General Model Editing Framework for Large Language Models** (NeurIPS 2024, [arxiv](https://arxiv.org/abs/2404.13752)). See details below.
+This is the official implementation repository for the paper **Adversarial Representation Engineering: A General Model Editing Framework for Large Language Models** (NeurIPS 2024), [arxiv](https://arxiv.org/abs/2404.13752)). See details below.
 
 w/ [Yihao Zhang](https://zhang-yihao.github.io), [Zeming Wei](https://weizeming.github.io), Jun Sun, Meng Sun.
 
